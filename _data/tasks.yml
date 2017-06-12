@@ -122,7 +122,7 @@ toc:
   - docs/tasks/administer-cluster/romana-network-policy.md
   - docs/tasks/administer-cluster/weave-network-policy.md
   - docs/tasks/administer-cluster/change-pv-reclaim-policy.md
-  - docs/tasks/administer-cluster/configure-pod-disruption-budget.md
+  - docs/tasks/administer-cluster/configure-pod-disruption-budget.command
   - docs/tasks/administer-cluster/limit-storage-consumption.md
   - docs/tasks/administer-cluster/change-default-storage-class.md
   - docs/tasks/administer-cluster/share-configuration.md
@@ -130,6 +130,7 @@ toc:
   - docs/tasks/administer-cluster/highly-available-master.md
   - docs/tasks/administer-cluster/configure-multiple-schedulers.md
   - docs/tasks/administer-cluster/ip-masq-agent.md
+  - docs/tasks/administer-cluster/dns-custom-nameservers.md
   - title: Change Cluster Size
     path: https://github.com/kubernetes/kubernetes/wiki/User-FAQ#how-do-i-change-the-size-of-my-cluster/
 
